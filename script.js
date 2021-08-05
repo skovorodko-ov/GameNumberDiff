@@ -13,7 +13,7 @@ function getRandom(min, max) {
 // функция окончания игры
 let stopGame = function () {
     return alert('Игра окончена! До новых встреч.');
-}
+};
 
 // игра
 function whatNum() {
